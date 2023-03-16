@@ -1,0 +1,15 @@
+{
+    "author":"Vamsi",
+    "name":"calc7514",
+    "main":"calc7514",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/vamsi751427/calc7514"
+    },
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    },
+    "version": "0.0.1",
+    "keywords": ["calc"]
+}
